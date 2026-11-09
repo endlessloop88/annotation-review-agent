@@ -1,0 +1,5 @@
+{
+  "ann-001": { "reviewed": 120, "approval_rate": 0.91, "correction_rate": 0.07 },
+  "ann-002": { "reviewed": 45, "approval_rate": 0.42, "correction_rate": 0.4 },
+  "ann-003": { "reviewed": 8, "approval_rate": 0.75, "correction_rate": 0.25 }
+}
