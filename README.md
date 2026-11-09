@@ -1,5 +1,7 @@
 # annotation-review-agent
 
+[![tests](https://github.com/endlessloop88/annotation-review-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/endlessloop88/annotation-review-agent/actions/workflows/tests.yml)
+
 A small LLM agent that reviews data-labelling submissions against written guidelines. It is an experiment in
 tool use, retrieval and output guardrails, built around the problem I know from AI data evaluation work.
 
